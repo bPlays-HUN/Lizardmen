@@ -11,27 +11,27 @@
 		
 		"declaringWar": "You will be a sacrifice for the Serpent god!",
 		"attacked": "You incur the wrath of the Serpent God!",
-		"defeated": " ",
-		"introduction": " ",
+		"defeated": "Sotek will avange me!",
+		"introduction": "Hello, we want two things: sacrifices and the extermination of the Skaven.",
 		
-		"neutralHello": "How are you doing?",
-		//"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-		//"neutralNo": ["We absolutely refuse.","No!","I refuse."],
-		//"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+		"neutralHello": "Hello!",
+		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
+		"neutralNo": ["I must say no.","No!","Sorry, but this is not in my best interest."],
+		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
 
-		"hateHello": "What do you want now?",
-		//"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
-		//"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
-		//"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		"hateHello": "Why are you wasting my time now?",
+		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
+		"hateNo": ["That is an insult for the Serpent-God!","That is outrageous!"],
+		"hateYes": ["We can do that","I must admit it will benefit us both."],
 		
-		//"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
-		"denounced": "The accusations of primitive lifeforms are beneath us.",
-		"declaringfriendship": "Let us become like friends!",
+		"afterPeace": "Finally, I can go back chopping rats.",
+		"tradeRequest": "We want to trade!",
+		"denounced": "I refuse!",
+		"declaringfriendship": "Lets fight Skaven together!",
 
 		"outerColor": [246,217,60],
 		"innerColor": [247,36,17],
-		"unique": "MANIFEST_DESTINY",
+		"unique": "Chosen of the Serpent-God",
 		"cities": ["Xlanzec","Kaiax", "Xlanhuapec", "Xahutec", "Temple of Tlencan", "The Dust Gate", "The Copper Landing"]
 	}
 ]
