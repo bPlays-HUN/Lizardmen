@@ -6,13 +6,13 @@
 		"startBias": ["Coastal"],
 		"preferredVictoryType": "Domination",
 		
-		"startIntroPart1": "Cult of Sotek",
+		"startIntroPart1": "Follow the Prophet!",
 		"startIntroPart2": "Tehenhauin believes that with sufficient sacrifices, the serpent-god may yet return, bringing salvation to the Lizardmen and the extermination of the Skaven.",
 		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
+		"declaringWar": "You will be a sacrifice for the Serpent god!",
+		"attacked": "You incur the wrath of the Serpent God!",
+		"defeated": " ",
+		"introduction": " ",
 		
 		"neutralHello": "How are you doing?",
 		//"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
