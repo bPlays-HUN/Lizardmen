@@ -32,16 +32,23 @@ NationIcons/Cult of Sotek
   orig: 250, 250
   offset: 0, 0
   index: -1
-NationIcons/Last Defenders
+NationIcons/Itza
   rotate: false
   xy: 112, 112
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Phasers
+NationIcons/Last Defenders
   rotate: false
   xy: 262, 262
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Phasers
+  rotate: false
+  xy: 370, 370
   size: 100, 100
   orig: 100, 100
   offset: 0, 0

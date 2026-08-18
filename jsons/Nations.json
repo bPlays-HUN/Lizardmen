@@ -44,10 +44,10 @@
 		"startIntroPart1": "Kroq-Gar was sent to the Southlands.",
 		"startIntroPart2": "As the Last Defender of Xhotl we shall establish a new power base to enact the next stage of the Great Plan and hunt out the Sacred Plaques that shall power the Ritual of Prognostication!",
 		
-		"declaringWar": "You will be a sacrifice for the Serpent god!",
-		"attacked": "You incur the wrath of the Serpent God!",
-		"defeated": "Sotek will avange me!",
-		"introduction": "Hello, we want two things: sacrifices and the extermination of the Skaven.",
+		"declaringWar": "The Great Plan demands war!",
+		"attacked": "You will rue this day!",
+		"defeated": "Oh no, now I fail!",
+		"introduction": "We will take back the jungle, don't be in our way!",
 		
 		"neutralHello": "Hello!",
 		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
@@ -59,15 +59,49 @@
 		"hateNo": ["That is an insult for the Serpent-God!","That is outrageous!"],
 		"hateYes": ["We can do that","I must admit it will benefit us both."],
 		
-		"afterPeace": "Finally, I can go back chopping rats.",
+		"afterPeace": " ",
 		"tradeRequest": "We want to trade!",
 		"denounced": "I refuse!",
-		"declaringfriendship": "Lets fight Skaven together!",
+		"declaringfriendship": "The Great Plan mentions us as friends.",
 
 		"outerColor": [9,85,189],
 		"innerColor": [231,128,15],
 		"uniqueName": "Last Defender of Xhotl",
-		"cities": ["The Golden Tower","Teotiqua", "Yuatek", "Zlatlan","Sotek's Trail", "Temple Avenue of Gold",
-					"Caverns of Sotek", "The Cursed Jungle", "Serpent Coast", "Temple of Skulls"]
+		"cities": ["The Golden Tower","Teotiqua", "Yuatek", "Zlatlan","Sotek's Trail", "Temple Avenue of Gold", "Caverns of Sotek", "The Cursed Jungle", "Serpent Coast", "Temple of Skulls"]
+	},
+	{
+		"name": "Itza",
+		"leaderName": "Gor-Rok",
+		"adjective": ["lizard"],
+		"startBias": ["Jungle"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "Kroq-Gar was sent to the Southlands.",
+		"startIntroPart2": "As the Last Defender of Xhotl we shall establish a new power base to enact the next stage of the Great Plan and hunt out the Sacred Plaques that shall power the Ritual of Prognostication!",
+		
+		"declaringWar": "The Great Plan demands war!",
+		"attacked": "You will rue this day!",
+		"defeated": "Oh no, now I fail!",
+		"introduction": "We will take back the jungle, don't be in our way!",
+		
+		"neutralHello": "Hello!",
+		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
+		"neutralNo": ["I must say no.","No!","Sorry, but this is not in my best interest."],
+		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+
+		"hateHello": "Why are you wasting my time now?",
+		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
+		"hateNo": ["That is an insult for the Serpent-God!","That is outrageous!"],
+		"hateYes": ["We can do that","I must admit it will benefit us both."],
+		
+		"afterPeace": " ",
+		"tradeRequest": "We want to trade!",
+		"denounced": "I refuse!",
+		"declaringfriendship": "The Great Plan mentions us as friends.",
+
+		"outerColor": [255,255,255],
+		"innerColor": [244,203,62],
+		"uniqueName": "The Great White Lizard",
+		"cities": ["Itza"]
 	}
 ]
