@@ -31,7 +31,43 @@
 
 		"outerColor": [246,217,60],
 		"innerColor": [247,36,17],
-		"unique": "Chosen of the Serpent-God",
+		"uniqueName": "Chosen of the Serpent-God",
 		"cities": ["Xlanzec","Kaiax", "Xlanhuapec", "Xahutec", "Temple of Tlencan", "The Dust Gate", "The Copper Landing"]
+	},
+	{
+		"name": "Last Defenders",
+		"leaderName": "Kroq-Gar",
+		"adjective": ["lizard"],
+		"startBias": ["Jungle"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "Kroq-Gar was sent to the Southlands.",
+		"startIntroPart2": "As the Last Defender of Xhotl we shall establish a new power base to enact the next stage of the Great Plan and hunt out the Sacred Plaques that shall power the Ritual of Prognostication!",
+		
+		"declaringWar": "You will be a sacrifice for the Serpent god!",
+		"attacked": "You incur the wrath of the Serpent God!",
+		"defeated": "Sotek will avange me!",
+		"introduction": "Hello, we want two things: sacrifices and the extermination of the Skaven.",
+		
+		"neutralHello": "Hello!",
+		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
+		"neutralNo": ["I must say no.","No!","Sorry, but this is not in my best interest."],
+		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+
+		"hateHello": "Why are you wasting my time now?",
+		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
+		"hateNo": ["That is an insult for the Serpent-God!","That is outrageous!"],
+		"hateYes": ["We can do that","I must admit it will benefit us both."],
+		
+		"afterPeace": "Finally, I can go back chopping rats.",
+		"tradeRequest": "We want to trade!",
+		"denounced": "I refuse!",
+		"declaringfriendship": "Lets fight Skaven together!",
+
+		"outerColor": [9,85,189],
+		"innerColor": [231,128,15],
+		"uniqueName": "Last Defender of Xhotl",
+		"cities": ["The Golden Tower","Teotiqua", "Yuatek", "Zlatlan","Sotek's Trail", "Temple Avenue of Gold",
+					"Caverns of Sotek", "The Cursed Jungle", "Serpent Coast", "Temple of Skulls"]
 	}
 ]
